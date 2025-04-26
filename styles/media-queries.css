@@ -47,7 +47,8 @@
 }
 
 .hero-section-wrapper > .hero-section{
-   width: 373px;
+   width: 373.2px;
+    border-bottom-right-radius: 0px;
 }
 
 .features-section{
