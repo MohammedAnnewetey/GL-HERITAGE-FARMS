@@ -1,0 +1,74 @@
+#mc_embed_signup{
+  
+  background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 649px;
+color: #c8102e;
+width: 100%;
+}
+
+
+
+.form-wrapper{
+padding-left: 350px;
+padding-right: 350px;
+  padding-bottom: 50px;
+}
+
+  
+.btn-wrapper{
+margin-left: -50px;
+
+}
+
+
+  .contact-btn {
+    margin-left: 100px;
+    margin-right: 190px;
+    text-align: center;
+    background-color: #a00d26;
+    color: white;
+    font-weight: bold;
+    font-size: 0.9em;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 20px;
+    cursor: pointer;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.6);
+    transition: 0.3s ease-in-out;
+    
+  
+  }
+
+  .contact-btn:hover{
+    background-color: #c8102e;
+  } 
+
+  .contact-btn a{
+    text-decoration: none;
+    color: white;
+  }
+
+  
+  .location-btn{
+    text-align: center;
+    background-color: #a00d26;
+    color: white;
+    font-weight: bold;
+    font-size: 0.9em;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 20px;
+    cursor: pointer;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.6);
+    transition: 0.3s ease-in-out;
+  }
+
+  .location-btn a{
+    text-decoration: none;
+    color: white;
+  }
+
+  .location-btn:hover{
+    background-color: #c8102e;
+  } 
+
+  

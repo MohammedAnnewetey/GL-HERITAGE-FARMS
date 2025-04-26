@@ -1,0 +1,37 @@
+.about-wrapper {
+    padding: 40px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    background: #fff;
+  }
+  
+  .about-wrapper h1, .about-wrapper h2 {
+    color: #c8102e;
+    font-size: 2.5em;
+  }
+
+  .about-wrapper p{
+    font-size: 1.5em;
+  } 
+  
+  .about-hero {
+    background-color: #c8102e;
+    color: white;
+    padding: 100px 20px 60px;
+    text-align: center;
+  }
+  
+  .about-hero h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+  }
+  
+  .about-hero p {
+    font-size: 1.2rem;
+    color: gold;
+  } 
+
+
+
+
+  
