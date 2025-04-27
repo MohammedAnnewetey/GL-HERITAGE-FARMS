@@ -95,7 +95,12 @@ height: 100%;
 }
 
 .squares-wrapper > .squares > .square > .square-text-wrapper h1{
-    font-size: 2.5em;
+    font-size: 1.9em;
+    text-align: center;
+}
+
+    .squares-wrapper > .squares > .square > .square-text-wrapper p{
+    font-size: 1.4em;
     text-align: center;
 }
 
