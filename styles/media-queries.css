@@ -133,13 +133,9 @@ form{
 margin-left: -75px;
 }
 
-    .btn-wrapper > .contact-btn{
-    font-size: 0.5em;
-}
-
 
 .btn-wrapper > .location-btn{
-    font-size: 0.5em ;
+margin-left: -20px;
 }
 
 
