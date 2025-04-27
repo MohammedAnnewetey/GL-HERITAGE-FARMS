@@ -130,7 +130,7 @@ form{
 
 .btn-wrapper{
     display: flex;
-margin-left: -100px;
+margin-left: -75px;
 }
 
     .btn-wrapper > .contact-btn{
@@ -139,7 +139,7 @@ margin-left: -100px;
 
 
 .btn-wrapper > .location-btn{
-    width: 0.5em ;
+    font-size: 0.5em ;
 }
 
 
